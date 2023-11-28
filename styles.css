@@ -1,0 +1,83 @@
+body {
+	background: black;
+}
+
+* {
+	border: 1px dashed red;
+	min-height: 10px;
+	border:none;
+}
+
+.postcard {
+	background-color: white;
+	width: 400px;
+	height: 300px;
+	margin: auto;
+}
+
+.postcard-header {
+	display: flex;
+}
+
+.postcard-header img {
+	
+	width: 50px;
+	height: 60px;
+	padding-right: 2%;}
+.postcard-header h1 {
+	border:none;
+	width:400px;
+	height:19px;
+	padding-bottom:15px;
+	padding-left:1%;
+}
+
+
+
+.postcard-body {
+	display: flex;
+}
+
+
+.body-left p{
+	padding-left:0%;
+	font-size:100%;
+	margin-top:5px;
+	margin-right:5px;
+	margin-left:5px;
+}
+
+	
+.body-right {
+padding-right:35px;
+}
+
+
+.postcard-footer{
+	text-align:100px;
+	padding:0%;
+	display:block;
+	margin-top:5px;
+	padding-left:35%;
+}
+	
+	
+.inputs3{
+	margin-left:15%;
+	
+}
+
+	
+	
+	
+
+
+
+
+  
+
+	
+	
+
+
+
